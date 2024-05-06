@@ -1,4 +1,4 @@
-package Timer
+package main
 
 const (
 	cronName  = "cronName"
